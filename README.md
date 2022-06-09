@@ -13,7 +13,7 @@ https://linearaudio.nl/superregs
 <p>You want a power supply regulator that approaches an ideal DC voltage source as best as possible, bringing out the best in your equipment? Look no further – the Superreg fills your bill beautifully!</p>
 <p>The 86 x 77 mm (3.4 x 3 inch) board holds all parts (sourced by you) including a heatsink, for a dual supply regulator that can deliver up to 1A per side. Board can be separated in pos and neg reg board if needed for construction. Several threads on diyaudio discuss customization for a wide range of output voltages. The regulator boards accept a DC input from your favorite transformer/rectifier/reservoir cap.</span></p>
 <h2>Resistor / Voltage Table</span></h2>
-<p><a href="docs/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.pdf"><img width="50%" src="docs/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.png" alt="Example Resistor Values"></a></p>
+<p><a href="docs/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.pdf"><img width="640px" src="docs/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.png" alt="Example Resistor Values"></a></p>
 <p>&nbsp;&nbsp;</p>
 <h2>Details</h2>
 </div>
@@ -44,4 +44,18 @@ https://linearaudio.nl/superregs
 <li>2.3b Update includes:</li>
 <ul>
 <li>Updated legend on silkscreen</li>
-<li>Please see new <a href="hardware/superreg_V2.3b_fig_2.pdf">figure PDF for 2.3b</a> or this <a href="hardware/superreg-PCB_v2.3b.png">high res pic</a>
+<li>Please see new <a href="hardware/superreg_V2.3b_fig_2.pdf">figure PDF for 2.3b</a> or this <a href="hardware/superreg-PCB_v2.3b.png">high res pic</a>  
+
+----  
+  
+<p><a href="hardware/superreg-schematic.png">
+<img width="100%" src="hardware/superreg-schematic.png"></a></p>
+<p><a href="hardware/superreg-PCB_v2.3b.png">
+<img width="100%" src="hardware/superreg-PCB_v2.3b.png"></a></p>
+<p><a href="hardware/superreg-PCB_v2.3_top.jpg">
+<img width="100%" src="hardware/superreg-PCB_v2.3_top.jpg"></a></p>
+<p><a href="hardware/superreg-PCB_v2.3_bottom.jpg">
+<img width="100%" src="hardware/superreg-PCB_v2.3_bottom.jpg"></a></p>
+<p><a href="hardware/superreg_v2.0_assembly.jpg">
+<img width="100%" src="hardware/superreg_v2.0_assembly.jpg"></a></p>
+  last picture is showing the old version 2.0
