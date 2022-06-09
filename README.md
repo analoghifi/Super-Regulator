@@ -1,7 +1,7 @@
 # Super-Regulator
 Pos/neg Superregulator.   
-Based on Walt Jung / Jan Didden, Audio Amateur 1995   
-Walt Jung, Audio Electronics 4/2000   
+Based on Walt Jung / Jan Didden, <a href="docs/Regs_for_High_Perf_Audio.pdf">Audio Amateur 1995</a>   
+Walt Jung, <a href="docs/Walt_Jung_Audio_Electronics_04_2000__Improved_PN_Regs.pdf">Audio Electronics 4/2000</a>   
 See articles at www.waltjung.org  
 https://diyaudiostore.com/collections/power-supplies-accessories/products/super-regulator  
 https://linearaudio.nl/superregs  
