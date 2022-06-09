@@ -44,4 +44,4 @@ https://linearaudio.nl/superregs
 <li>2.3b Update includes:</li>
 <ul>
 <li>Updated legend on silkscreen</li>
-<li>Please see new <a href="hardware/superreg_V2.3b_fig_2.pdf">figure PDF for 2.3b</a>
+<li>Please see new <a href="hardware/superreg_V2.3b_fig_2.pdf">figure PDF for 2.3b</a> or this <a href="hardware/superreg-PCB_v2.3b.png">high res pic</a>
