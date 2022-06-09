@@ -9,14 +9,13 @@ https://linearaudio.nl/superregs
 ----  
 
 <h2>Description</h2>
-<p class="p1">You want to build a preamp, a DAC, a phono stage, anything that needs a nominal supply voltage between 3.3V and 18V or even more, positive and/or negative polarity?</p>
-<p class="p1">You want a power supply regulator that approaches an ideal DC voltage source as best as possible, bringing out the best in your equipment? Look no further – the Superreg fills your bill beautifully!</p>
-<meta charset="utf-8">
-<p class="p1"><span color="#585858">The 86 x 77 mm (3.4 x 3 inch) board holds all parts (sourced by you) including a heatsink, for a dual supply regulator that can deliver up to 1A per side. Board can be separated in pos and neg reg board if needed for construction. Several threads on diyaudio discuss customization for a wide range of output voltages. The regulator boards accept a DC input from your favorite transformer/rectifier/reservoir cap.</span></p>
-<h2 class="p1"><span color="#585858">Resistor / Voltage Table</span></h2>
-<p class="p1"><a href="https://cdn.shopify.com/s/files/1/1006/5046/files/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.pdf?v=1619915284"><img src="https://cdn.shopify.com/s/files/1/1006/5046/files/Example_Super_Regulator_Calculations_Three_Vrefs_v5_480x480.png?v=1619594432" alt="Example Resistor Values"></a></p>
-<p class="p1">&nbsp;&nbsp;</p>
-<h2 class="p1">Details</h2>
+<p>You want to build a preamp, a DAC, a phono stage, anything that needs a nominal supply voltage between 3.3V and 18V or even more, positive and/or negative polarity?</p>
+<p>You want a power supply regulator that approaches an ideal DC voltage source as best as possible, bringing out the best in your equipment? Look no further – the Superreg fills your bill beautifully!</p>
+<p>The 86 x 77 mm (3.4 x 3 inch) board holds all parts (sourced by you) including a heatsink, for a dual supply regulator that can deliver up to 1A per side. Board can be separated in pos and neg reg board if needed for construction. Several threads on diyaudio discuss customization for a wide range of output voltages. The regulator boards accept a DC input from your favorite transformer/rectifier/reservoir cap.</span></p>
+<h2>Resistor / Voltage Table</span></h2>
+<p><a href="https://cdn.shopify.com/s/files/1/1006/5046/files/Example_Super_Regulator_Calculations_for_Resistor_Values_v5.pdf?v=1619915284"><img src="https://cdn.shopify.com/s/files/1/1006/5046/files/Example_Super_Regulator_Calculations_Three_Vrefs_v5_480x480.png?v=1619594432" alt="Example Resistor Values"></a></p>
+<p>&nbsp;&nbsp;</p>
+<h2>Details</h2>
 </div>
 <ul>
 <li>V2.3b PCB designed by Jan Didden based on the Jung/Didden regulator from Audio Amateur, includes Walts’ latest refinement;</li>
